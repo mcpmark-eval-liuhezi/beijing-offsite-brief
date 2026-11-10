@@ -1,19 +1,30 @@
 # Beijing offsite travel brief
 
-Meeting date: Monday, 2026-11-09 (session starts 14:00)
+Meeting date: Monday, 2026-11-16 (Beijing session starts 14:00)
 
 ## Zhang Wei — Shanghai Hongqiao → Beijing South
-Train: G8 — 上海虹桥 (Shanghai Hongqiao) 08:00 → 北京南 (Beijing South) 12:26, 历时 4h26m
-Fare: 二等座 692元 (商务座 2420元, 一等座 1107元 — 无票)
+Train: G2 — departs 上海虹桥 06:43, arrives 北京南 11:32 (4h49m)
+Fare: 二等座 ¥661 (available); 一等座 ¥1058 (6 left); 商务座 ¥2315 (6 left)
+Constraint check: arrives 11:32, comfortably before 13:30 ✓
 
 ## Zhou Min — Shanghai Hongqiao → Beijing South
-Train: G532 — 上海虹桥 (Shanghai Hongqiao) 06:31 → 北京南 (Beijing South) 12:18, 历时 5h47m
-Fare: 二等座 576元, 一等座 967元 (商务座 1870元), 优选一等座 无座 576元
-Intermediate stops: 无锡东 (06:58/07:01), 常州北 (07:18/07:25), 丹阳北 (07:37/07:39), 南京南 (08:03/08:05), 定远 (08:34/08:47), 济南西 (10:34/10:38), 天津南 (11:41/11:44)
+Train: G2 — departs 上海虹桥 06:43, arrives 北京南 11:32 (4h49m)
+Fare: 二等座 ¥661 (available); 一等座 ¥1058 (6 left); 商务座 ¥2315 (6 left)
+Constraint check: arrives 11:32, before 12:30 ✓
+Intermediate stops (Shanghai Hongqiao → Beijing South):
+1. 苏州北 Suzhou North — arrive 07:04, depart 07:06
+2. 镇江南 Zhenjiang South — arrive 07:37, depart 07:39
+3. 南京南 Nanjing South — arrive 07:58, depart 08:01
+4. 蚌埠南 Bengbu South — arrive 08:40, depart 08:42
+5. 济南西 Jinan West — arrive 10:06, depart 10:09
 
 ## Li Na — Wuhan → Beijing West
-Train: G340 — 武汉 (Wuhan) 07:40 → 北京西 (Beijing West) 11:35, 历时 3h55m
-Fare: 二等座 623元, 商务座 1963元 (剩余2张), 一等座 997元 (剩余2张)
+Train: G340 — departs 武汉 07:40, arrives 北京西 11:35 (3h55m)
+Fare: 二等座 ¥623 (available); 一等座 ¥997 (3 left); 商务座 ¥1963 (3 left)
+Constraint check: arrives 11:35, before 13:00 ✓
 
-## Booking codes
-上海虹桥: AOH | 北京南: VNP | 武汉: WHN | 北京西: BXP
+## Booking codes (live from 12306)
+- 上海虹桥 AOH
+- 北京南 VNP
+- 武汉 WHN
+- 北京西 BXP
