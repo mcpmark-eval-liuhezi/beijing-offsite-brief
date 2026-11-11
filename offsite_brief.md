@@ -1,24 +1,16 @@
 # Beijing offsite travel brief
 
-Meeting date: Monday, 2026-11-16 (Beijing session at 14:00)
+Meeting date: 2026-11-16 (Monday)
 
 ## Zhang Wei — Shanghai Hongqiao → Beijing South
-Train: G10 — 上海虹桥 09:00 → 北京南 13:26 (4h26m), arrives before his 13:30 deadline
-Fare: ¥692 (second class), also first class ¥1,107, business class ¥2,420
+Train: G8, 上海虹桥 (AOH) 08:00 → 北京南 (VNP) 12:26, 4h26m. Fare: Second class ¥692 (First class ¥1107, Business ¥2420).
 
 ## Zhou Min — Shanghai Hongqiao → Beijing South
-Train: G8 — 上海虹桥 08:00 → 北京南 12:26 (4h26m), arrives before her 12:30 deadline
-Fare: ¥692 (second class), also first class ¥1,107, business class ¥2,420
-
-Intermediate stops for G8:
-1. 上海虹桥 (departs 08:00)
-2. 南京南 (arrives 09:00, departs 09:02)
-3. 济南西 (arrives 10:59, departs 11:02)
-4. 北京南 (arrives 12:26)
+Train: G2, 上海虹桥 (AOH) 06:43 → 北京南 (VNP) 11:32, 4h49m. Fare: Second class ¥661 (First class ¥1058, Business ¥2315).
+Intermediate stops: 苏州北 (arr 07:04 / dep 07:06), 镇江南 (arr 07:37 / dep 07:39), 南京南 (arr 07:58 / dep 08:01), 蚌埠南 (arr 08:40 / dep 08:42), 济南西 (arr 10:06 / dep 10:09).
 
 ## Li Na — Wuhan → Beijing West
-Train: G340 — 武汉 07:40 → 北京西 11:35 (3h55m), arrives before her 13:00 deadline
-Fare: ¥623 (second class), also first class ¥997, business class ¥1,963
+Train: G340, 武汉 (WHN) 07:40 → 北京西 (BXP) 11:35, 3h55m. Fare: Second class ¥623 (First class ¥997, Business ¥1963).
 
 ## Booking codes
 上海虹桥 AOH
